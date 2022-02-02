@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">InfoBad</string>
+    <string name="nav_break_bad_title">Breaking Bad</string>
+    <string name="nav_better_saul_title">Better Call Saul</string>
+    <string name="title_nickname">Nickname: </string>
+    <string name="title_birthday">Birthday: </string>
+    <string name="title_appearance">Appearance: </string>
+    <string name="title_quotes">Famous quotes: </string>
+</resources>

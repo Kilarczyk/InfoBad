@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_breaking_bad"
+        android:icon="@drawable/ic_nav_breaking_bad"
+        android:title="@string/nav_break_bad_title"/>
+
+    <item
+        android:id="@+id/nav_better_call_saul"
+        android:icon="@drawable/ic_nav_better_call_saul"
+        android:title="@string/nav_better_saul_title"/>
+</menu>
